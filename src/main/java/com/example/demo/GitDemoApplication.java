@@ -11,7 +11,7 @@ public class GitDemoApplication {
 		System.out.println("hiii");
 		System.out.println("hii ihello");
 		System.out.println("hii ihello");
-		System.out.println("Changes ");
+		System.out.println("Change ");
 	}
 
 }
